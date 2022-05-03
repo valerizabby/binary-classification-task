@@ -8,6 +8,11 @@
 ___
 
 ## Анализ данных
+![Race](https://github.com/valerizabby/binary-classification-task/blob/main/pictures/race.png)
+![Genetic](https://github.com/valerizabby/binary-classification-task/blob/main/pictures/genetics.png)
+
+ Сбалансировать данные! и написать что они не сбалансированы 
+
 
 ## Методы классификации 
 
