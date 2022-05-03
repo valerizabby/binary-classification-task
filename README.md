@@ -8,8 +8,9 @@
 ___
 
 ## Анализ данных
-![Race](https://github.com/valerizabby/binary-classification-task/blob/main/pictures/race.png)
-![Genetic](https://github.com/valerizabby/binary-classification-task/blob/main/pictures/genetics.png)
+Датасет собран на основе опросов людей в США об их здоровье, бинарным признаком (вектором ответов) является стобец HeartDisease, который описывает, бывали ли у человека болезни сердца. Изначально датасет имел более 300 признаков, но был сжат до примерно 20 самых существенных, таких как курение, сахарный диабет, генетика etc. Автор предлагает его использовать в целях построения учебных моделей, так как датасет уже подчищен, единственный недостаток - несбалансированность. Так, для вектора ответов имеет место следующее распределение: 
+
+![HeartDisease](https://github.com/valerizabby/binary-classification-task/blob/main/pictures/HeartDisease.png)
 
  Сбалансировать данные! и написать что они не сбалансированы 
 
